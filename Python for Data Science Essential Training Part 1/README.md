@@ -5,6 +5,9 @@ This is a LinkedIn Course [Python for Data Science Essential Training Part 1](ht
 ## Course details
 This course takes you step by step through a practical data science project: a web scraper that downloads and analyzes data from the web. Along the way, she introduces techniques to clean, reformat, transform, and describe raw data; generate visualizations; remove outliers; perform simple data analysis; and generate interactive graphs using the Plotly library. You should walk away from this training with basic coding experience that you can take to your organization and quickly apply to your own custom data science projects.
 
+### Instructor Resources
+The course resources provided by the instructor is [here](./Ex_Files_Python_Data_Science_EssT_Pt_1.zip)
+
 ## Learning objectives
 * Why use Python for working with data
 * Filtering and selecting data
