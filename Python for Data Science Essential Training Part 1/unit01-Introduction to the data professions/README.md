@@ -34,3 +34,29 @@
 * Deep learning
     * Deep learning is a set of predictive methodologies that borrows its structure from the neural network structures of the brain. This class of methods is particulary effective for making predictions from big data.
     * Deep learning is a sub-field within data science, and it can be used as a decision model with applications to produce deep learning AI.
+
+## 3. Why use Python for analytics?
+* Coding Languages for Data Science:
+    * Python
+    * R
+    * Julia
+    * Go
+* Python is a high-level, interpreted coding language that is useful for a very wide variety of applications.
+* Python is one of the official programming languages of Google.
+* Benefits of Using Python:
+    * Easy to learn, human readable.
+    * Extensive array of well-supported data science libraries.
+    * Biggest user base of all data science languages.
+    * Useful in data engineering.
+* Python is useful for:
+    * Data science, data analytics and data engineering.
+    * Useful in both a professional and an academic environment.
+    * Python is an open-source programming language.
+    * Web development.
+    * Applicaiton development.
+    * Game development.
+* Main Python libraries for Data Science:
+
+    Advanced Data Analytics | Data Visualization | Machine Learning
+    ------------------------|--------------------|-----------------
+    Numby<br/>SciPy<br/>pandas | Matplotlib<br/>Seaborn | scikit-learn<br/>TensorFlow<br/>Keras
