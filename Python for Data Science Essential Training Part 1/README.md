@@ -24,6 +24,7 @@ The course resources provided by the instructor is [here](./Ex_Files_Python_Data
 * Collaborative analytics with Plotly
 
 ## Course Units
-1. [Introduction to the data professions](unit01-Introduction%20to%20the%20data%20professions/README.md)
+1. [Introduction to the data professions](./unit01-Introduction%20to%20the%20data%20professions/README.md)
+2. [Data Preparation Basics](./unit02-Data%20Preparation%20Basics/README.md)
 
-[<<Previous](../README.md) | [Next>>](unit01-Introduction%20to%20the%20data%20professions/README.md)
+[<<Previous](../README.md) | [Next>>](./unit01-Introduction%20to%20the%20data%20professions/README.md)
