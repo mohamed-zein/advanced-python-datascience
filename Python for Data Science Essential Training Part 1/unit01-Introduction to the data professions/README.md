@@ -60,3 +60,8 @@
     Advanced Data Analytics | Data Visualization | Machine Learning
     ------------------------|--------------------|-----------------
     Numby<br/>SciPy<br/>pandas | Matplotlib<br/>Seaborn | scikit-learn<br/>TensorFlow<br/>Keras
+
+## 4. High-level course road map
+![High-level course road map](resources/images/High-level-course-road-map.jpg)
+
+[<<Previous](../README.md) | [Next>>](../unit02-Data%20Preparation%20Basics/README.md)
