@@ -81,4 +81,12 @@
 * **Transforming**: conferting and reformatting data to teh format that's necessary for your purposes.
 * [Code Demonstration](./code/02-04.ipynb)
 
+## 5. Grouping and aggregation
+* Grouping and Aggregation are useful for exploring and describing your dataset in its subgroups.
+* Reasons for Grouping Data:
+    * To compare subsets.
+    * To deduce reasons why subgroups differ.
+    * To subset your data for your analysis.
+* [Code Demonstration](./code/02-05.ipynb)
+
 [<<Previous](../unit01-Introduction%20to%20the%20data%20professions/README.md) | [Next>>]()
