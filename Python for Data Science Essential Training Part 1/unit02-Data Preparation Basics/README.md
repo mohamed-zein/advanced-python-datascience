@@ -22,7 +22,7 @@
     < | True if the left operand has a value that's less than the right operand
     \>= | True if the left operand has a value that's greater than or equal the right operand
     <= | True if the left operand has a value that's less than or equal the right operand
-* Code Demonstration
+* [Code Demonstration](./code/02-01.ipynb)
     * Plain indexing
     * Data slicing 
     * Arithmetic comparison
