@@ -33,7 +33,8 @@
 				"ms-python.vscode-pylance",
 				"VisualStudioExptTeam.vscodeintellicode",
 				"mdickin.markdown-shortcuts",
-				"GitHub.vscode-pull-request-github"
+				"GitHub.vscode-pull-request-github",
+				"VisualStudioExptTeam.intellicode-api-usage-examples"
 			]
 		}
 	},
