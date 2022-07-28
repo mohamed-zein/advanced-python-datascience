@@ -89,4 +89,7 @@
     * To subset your data for your analysis.
 * [Code Demonstration](./code/02-05.ipynb)
 
+## Quiz
+* [Code Demonstration](./code/02-quiz.ipynb)
+
 [<<Previous](../unit01-Introduction%20to%20the%20data%20professions/README.md) | [Next>>]()
