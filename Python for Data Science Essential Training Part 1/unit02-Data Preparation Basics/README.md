@@ -36,24 +36,24 @@
     * At the same time, both responded to 75% of their request for information. So we can't drop them from the dataset.
     * The other 3 participants provided resonses to _Quality of Work_ so we can't drop this column.
 
-Respondant Name | Speed of Service (1-10) | Friendliness of Staff (1-10) | Quality of Wor (1-10) | Price (1-10)
-----------------|-------------------------|------------------------------|-----------------------|-------------
-Sally | 10 | 10 | **missing** | 8
-Jim | 10 | 9 | **missing** | 10
-Rod | 9 | 8 | 9 | 9
-Sam | 8 | 10 | 8 | 10
-Jane | 10 | 4 | 10 | 6
+        Respondant Name | Speed of Service (1-10) | Friendliness of Staff (1-10) | Quality of Wor (1-10) | Price (1-10)
+        ----------------|-------------------------|------------------------------|-----------------------|-------------
+        Sally | 10 | 10 | **missing** | 8
+        Jim | 10 | 9 | **missing** | 10
+        Rod | 9 | 8 | 9 | 9
+        Sam | 8 | 10 | 8 | 10
+        Jane | 10 | 4 | 10 | 6
 
 * As a solution we can take the **Average** of the available values of _Quality of Work_ and replace the missing values with this **Average**.
     * This will be an **Approximation**. Many times, using an **Approximation** would be better than dropping the missing values.
 
-Respondant Name | Speed of Service (1-10) | Friendliness of Staff (1-10) | Quality of Wor (1-10) | Price (1-10)
-----------------|-------------------------|------------------------------|-----------------------|-------------
-Sally | 10 | 10 | **8** | 8
-Jim | 10 | 9 | **8** | 10
-Rod | 9 | 8 | 9 | 9
-Sam | 8 | 10 | 8 | 10
-Jane | 10 | 4 | 10 | 6
+        Respondant Name | Speed of Service (1-10) | Friendliness of Staff (1-10) | Quality of Wor (1-10) | Price (1-10)
+        ----------------|-------------------------|------------------------------|-----------------------|-------------
+        Sally | 10 | 10 | **8** | 8
+        Jim | 10 | 9 | **8** | 10
+        Rod | 9 | 8 | 9 | 9
+        Sam | 8 | 10 | 8 | 10
+        Jane | 10 | 4 | 10 | 6
 
 * [Code Demonstration](./code/02-02.ipynb)
     * Discovering what's missing.
