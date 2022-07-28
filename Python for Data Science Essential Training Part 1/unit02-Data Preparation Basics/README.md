@@ -76,4 +76,9 @@
 
 * [Code Demonstration](./code/02-03.ipynb)
 
+## 4. Concatenating and Transforming
+* **Concatenating**: Combining data from seperate sources.
+* **Transforming**: conferting and reformatting data to teh format that's necessary for your purposes.
+* [Code Demonstration](./code/02-04.ipynb)
+
 [<<Previous](../unit01-Introduction%20to%20the%20data%20professions/README.md) | [Next>>]()
