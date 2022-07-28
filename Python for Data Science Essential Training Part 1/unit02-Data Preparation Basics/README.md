@@ -60,5 +60,20 @@
     * Filling in for missing values.
     * Counting missing values.
     * Filtering oyt missing values.
+## 3. Removing duplicates
+* Why remove duplicates?
+    * To maintain accurate, consistent datasets.
+    * To avoid producing erronous or misleading statistics.
+    * For example, imagine a customer made 3 purchase with 3 different credit cards but with the same ZIP code.
+        * Based on the Credit Card Number, Sally will look like 3 different customers, all  from the same ZIP code.
+        * If we fail to examine the other attributes of the customer so we identify and remove duplicates, Sally transactions would the skew the results of a customer demographic analysis because Sally will be counted as 3 different people rather than 1.
+
+            Name | Zip | Credit Card Number
+            -----|-----|-------------------
+            Sally | 32803 | 123456789123
+            Sally | 32803 | 234567891234
+            Sally | 32803 | 345678912345
+
+* [Code Demonstration](./code/02-03.ipynb)
 
 [<<Previous](../unit01-Introduction%20to%20the%20data%20professions/README.md) | [Next>>]()
