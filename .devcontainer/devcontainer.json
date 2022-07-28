@@ -34,7 +34,8 @@
 				"VisualStudioExptTeam.vscodeintellicode",
 				"mdickin.markdown-shortcuts",
 				"GitHub.vscode-pull-request-github",
-				"VisualStudioExptTeam.intellicode-api-usage-examples"
+				"VisualStudioExptTeam.intellicode-api-usage-examples",
+				"ms-toolsai.jupyter"
 			]
 		}
 	},
