@@ -20,7 +20,7 @@
     * Simple interactive dashboards.
 * In this course, we are going to use Python libarary [Plotly](https://plotly.com/python/) to create interactive data visualization.
 * Example:
-![Data Storytelling Example](resources/images/Data-Storytelling.png)
+![Data Storytelling Example](resources/images/lesson-01/Data-Storytelling.png)
 
 ### Data showcasing
 * Showcase lots of data so your audience members can think for themselves.
@@ -40,7 +40,7 @@
     * Static images.
     * Interactive dashboards.
 * Example:
-![Data Showcasing Example](resources/images/Data-Showcasing.png)
+![Data Showcasing Example](resources/images/lesson-01/Data-Showcasing.png)
 
 ### Data Art
 * Use your data visualization to make a statement.
@@ -54,6 +54,6 @@
 * Product Types:
     * Static images.
 * Example:
-![Data Art Example](resources/images/Data-Art.png)
+![Data Art Example](resources/images/lesson-01/Data-Art.png)
 
 [<<Previous](../unit02-Data%20Preparation%20Basics/README.md) | [Next>>]()
