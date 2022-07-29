@@ -26,5 +26,6 @@ The course resources provided by the instructor is [here](./Ex_Files_Python_Data
 ## Course Units
 1. [Introduction to the data professions](./unit01-Introduction%20to%20the%20data%20professions/README.md)
 2. [Data Preparation Basics](./unit02-Data%20Preparation%20Basics/README.md)
+3. [Data Visualization 101](./unit03-Data%20Visualization%20101/README.md)
 
 [<<Previous](../README.md) | [Next>>](./unit01-Introduction%20to%20the%20data%20professions/README.md)
