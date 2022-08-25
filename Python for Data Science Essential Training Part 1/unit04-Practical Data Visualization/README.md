@@ -54,3 +54,5 @@ In the [Code Demonstration](./code/04-01.ipynb), we will use _Functional Method_
 #### Subplots
 A subplot is a plotting figure that contains more than one plot - or subplots.
 ![Subplot](./resources/images/lesson-02/Subplots.png)
+
+In the [Code Demonstration](./code/04-02.ipynb), we will use _Object-Oriented Method_ with _Matplotlib_
